@@ -1,0 +1,3 @@
+[submodule "SharpLib"]
+	path = SharpLib
+	url = git@github.com:Svengali/SharpLib.git
