@@ -9,4 +9,8 @@
     <DebugType>embedded</DebugType>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SharpLib\SharpLib.csproj" />
+  </ItemGroup>
+
 </Project>
