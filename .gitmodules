@@ -1,3 +1,6 @@
 [submodule "SharpLib"]
 	path = SharpLib
 	url = git@github.com:Svengali/SharpLib.git
+[submodule "NetCore"]
+	path = NetCore
+	url = git@github.com:Svengali/NetCore.git
